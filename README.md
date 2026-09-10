@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kooshxo">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=506&text=Hi!%20I'm%20Duane" alt="Hi! I&#39;m Duane" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=506&text=hi!%20i'm%20Duane" alt="Hi! I&#39;m Duane" />
   </a>
 </p>
 
